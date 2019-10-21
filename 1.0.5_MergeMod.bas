@@ -7,7 +7,8 @@ Public ModuleDCVer As String
 '=================================================================================================================================================================
 ' Name        : MergeMod
 ' Author      : David Campbell
-' Date        : 17 OCT 2019
+' Date        : 21 OCT 2019
+' Description : Version 1.0.6 - Get Setup in Github
 ' Description : Version 1.0.5 - Added X_Merge_Run_Log table and sub to write here with Merge Success/Failure  message
 ' Description : Version 1.0.4 - Added code to get, compare table counts of EXT_SITE db and internal db and ignore tables with no corresponding table in the other environment.
 ' Desc cont.  : This is aware of extra tables in the EXT_SITE tables and tables in the CurrentDB not matched in the EXT_SITE tables
